@@ -2,12 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>나만의 포켓몬 만들기</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
-</h1>
-<br/>
-<a href="hello-servlet">Hello Servlet</a>
+
+<p>나에게 딱 맞는 포켓몬 만들어보자!</p>
 </body>
 </html>
